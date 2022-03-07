@@ -39,6 +39,35 @@ do curso de Bacharelado em Sistemas de Informação.
   - [ ] [DartPad](https://dart.dev/#try-dart)
   - [ ] [DartPad Count Example](https://dartpad.dev/?id=fdd369962f4ff6700a83c8a540fd6c4c)
   
+<details>
+  <summary>Notas da aula - Flutter e OO</summary>
+
+"A função de uma classe é você criar uma receita de bolo para criação de um objeto ou instâncias daquela classe. E a grande função daquela classe é ela representar algum conceito, alguma abstração que você quer dar do mundo real. Então quero representar aqui um controle de um ar-condicionado. O que é que eu vou fazer para representar um controle? eu posso criar uma classe controle que vai representar qualquer tipo de controle. Depois eu posso descer o nível de abstração e criar uma classe chip ou placa. E sair juntando objetos dessa classe para construir um objeto dessa classe controle.
+
+Então quando eu tenho uma classe, eu posso ter uma classe que ela não vai estar necessariamente trabalhando sozinha. Ela pode estar trabalhando com outras classes também, eu posso incluir outras coisas.
+
+Exemplo:
+posso ter uma classe pessoa, onde um dos atributos dela é animal de estimação, que por sua vez pode ser outra classe.
+"
+classes
+contrutor
+objetos
+atributos
+métodos
+
+estratégia de modelagem → evite herança (radical ou multipla)
+
+atributo onidirecional
+atributo biderecional
+
+"quando estamos falando de orientação a objetos, devemos ter o máximo de coesão e o mínimo de acoplamento (isto é, o mínimo de relacionamentos possíveis entre outras classes"
+
+"menos acoplamento, mais fácil de manter o negócio."
+
+"sem conceito de herança."
+    
+  </details>
+    
   #### Individual
   
   - [ ] Implemente a parte 2 do app desenvolvido no Tópico 1;

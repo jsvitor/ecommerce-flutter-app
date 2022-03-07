@@ -25,3 +25,29 @@ do curso de Bacharelado em Sistemas de Informação.
   
 </details>
 
+<details>
+  <summary>Tópico 2</summary>
+  
+  #### Material → Curadoria do Prof. Gabriel Alves🧙🏼
+  - [x] [Align (Widget Flutter da Semana)](https://www.youtube.com/watch?v=g2E7yl3MwMk)
+  - [x] [AlertDialog (Widget Flutter da Semana)](https://www.youtube.com/watch?v=75CsnyRXf5I)
+  - [x] [Container (Flutter Widget of the Week)](https://www.youtube.com/watch?v=c1xLMaTUWCY)
+  - [ ] [Flutter Layouts: Tela de Login](https://www.youtube.com/watch?v=lmArDnXxvtQ)
+  - [ ] [Flutter Development Learning Center](https://events.flutter.dev/engage/learn/beginner)
+  - [ ] [How to Build a Flutter™ Card List In Less Than 10 Minutes](https://medium.com/dlt-labs-publication/how-to-build-a-flutter-card-list-in-less-than-10-minutes-9839f79a6c08)
+  - [ ] [Building layouts](https://docs.flutter.dev/development/ui/layout/tutorial)
+  - [ ] [DartPad](https://dart.dev/#try-dart)
+  - [ ] [DartPad Count Example](https://dartpad.dev/?id=fdd369962f4ff6700a83c8a540fd6c4c)
+  
+  #### Individual
+  
+  - [ ] Implemente a parte 2 do app desenvolvido no Tópico 1;
+  - [ ] Inclua um botão que permita que a visualização da listagem alternada para o modo de cards (ao invés de lista) com 2 cards por linha;
+
+  - [ ] Disponibilize o código gerado em um branch denominado topico-2 do seu repositório do Github;
+  - [ ] Fazer wireframe (miro.com), roadmap e trello com atividades (backlog) do projeto (grupo).
+
+  
+  > O entregável desse tópico encontrasse no branch [topico-2](https://github.com/jsvitor/unleash_ecommerce_flutter/tree/topico-2)
+  
+</details>

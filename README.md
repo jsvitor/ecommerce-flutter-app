@@ -1,4 +1,4 @@
-# Ecommerce Flutter App
+# Unleash health
 
 Este repositório tem como objetivo armazenar as entregas avaliativas da disciplina "Desenvolvimento de Sistemas de Informação (DSI)",
 do curso de Bacharelado em Sistemas de Informação.
